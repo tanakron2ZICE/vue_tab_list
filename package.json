@@ -1,0 +1,42 @@
+{
+  "name": "tablelist",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "@fullcalendar/core": "^5.11.0",
+    "@fullcalendar/daygrid": "^5.11.0",
+    "@fullcalendar/interaction": "^5.11.0",
+    "@fullcalendar/list": "^5.11.0",
+    "@fullcalendar/timegrid": "^5.11.0",
+    "@fullcalendar/vue": "^5.11.0",
+    "apexcharts": "^3.35.3",
+    "axios": "^0.27.2",
+    "bootstrap": "^5.1.3",
+    "bootstrap-vue": "^2.21.2",
+    "chart.js": "^3.8.0",
+    "core-js": "^3.6.5",
+    "vue": "^2.6.14",
+    "vue-apexcharts": "^1.6.2",
+    "vue-axios": "^3.4.1",
+    "vue-chartjs": "^4.1.1",
+    "vue-moment": "^4.1.0",
+    "vue-router": "^3.2.0",
+    "vuex": "^3.4.0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.5.13",
+    "@vue/cli-plugin-eslint": "~4.5.13",
+    "@vue/cli-plugin-router": "~4.5.13",
+    "@vue/cli-plugin-vuex": "~4.5.13",
+    "@vue/cli-service": "~4.5.13",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^6.7.2",
+    "eslint-plugin-vue": "^6.2.2",
+    "vue-template-compiler": "^2.6.11"
+  }
+}

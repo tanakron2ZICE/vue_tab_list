@@ -1,0 +1,69 @@
+.header-container {
+    color: white;
+}
+
+.pointer {
+    cursor: pointer !important;
+}
+
+.sidebar-container {
+    color: white;
+}
+
+.text-title {
+    font-size: 36px;
+    font-weight: bold;
+}
+
+.text-mini-title {
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.bg-white {
+    background-color: white;
+}
+
+.bg-main {
+    color: white;
+    background-color: #32C040;
+}
+
+.orange-btn {
+    color: white !important;
+    background-color: #FF911E !important;
+    border: 1px solid #FF911E !important;
+}
+
+.list-main-btn {
+    color: black !important;
+    background-color: #C7F1CB !important;
+    border: 1px solid #C7F1CB !important;
+}
+
+.page-item.active .page-link {
+    background-color: #32C040 !important;
+    border-color: #32C040 !important;
+}
+
+.page-item .page-link {
+    color: #6c757d;
+    padding: 0.45rem 0.85rem;
+    line-height: 1.25;
+    border: 1px solid;
+    border-radius: 5px;
+}
+
+.page-item .page-link:hover {
+    color: white;
+    background-color: #32C040;
+}
+
+.page-item {
+    margin-left: 7px;
+}
+
+.select-btn {
+    border: 1px solid #6c757d;
+    border-radius: 5px;
+}
